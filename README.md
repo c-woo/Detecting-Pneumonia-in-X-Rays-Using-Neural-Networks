@@ -15,11 +15,11 @@ I'll be attempting to create a deep learning model that can accurately classify 
 I'll be making a couple different neural networks to see which one has the best performance. 
 
 The models I tested are:<br>
-*Baseline Neural Network
-*Convolutional Neural Network
-*CNN with added layers and regularization
-*Transfer Learning with VGG16
-*Trainable VGG16 Model
+* Baseline Neural Network
+* Convolutional Neural Network
+* CNN with added layers and regularization
+* Transfer Learning with VGG16
+* Trainable VGG16 Model
 
 ## Baseline Neural Network
 <img src='https://i.imgur.com/aBVbdxV.png'>
@@ -33,10 +33,10 @@ Accuracy: 84%
 <img src='https://i.imgur.com/g3SqVv7.png'>
 
 ### Evaluation Metrics
-Accuracy: 86.86%
-Precision: 82.91%
-Recall: 99.49%
-F1-score: 90.44%
+Accuracy: 86.86%<br>
+Precision: 82.91%<br>
+Recall: 99.49%<br>
+F1-score: 90.44%<br>
 Specificity: 65.81%
 
 ## CNN with Added Layers and Regularization
@@ -44,10 +44,10 @@ Specificity: 65.81%
 <img src='https://i.imgur.com/r1NCIdF.png'>
 
 ### Evaluation Metrics
-Accuracy: 93.43%
-Precision: 91.65%
-Recall: 98.46%
-F1-score: 94.93%
+Accuracy: 93.43%<br>
+Precision: 91.65%<br>
+Recall: 98.46%<br>
+F1-score: 94.93%<br>
 Specificity: 85.04%
 
 ## Transfer Learning with VGG16
@@ -55,10 +55,10 @@ Specificity: 85.04%
 <img src='https://i.imgur.com/Ssro0hP.png'>
 
 ### Evaluation Metrics
-Accuracy: 88.62%
-Precision: 85.05%
-Recall: 99.23%
-F1-score: 91.60%
+Accuracy: 88.62%<br>
+Precision: 85.05%<br>
+Recall: 99.23%<br>
+F1-score: 91.60%<br>
 Specificity: 70.94%
 
 ## Trainable VGG16 Model
@@ -67,10 +67,10 @@ The architecture of the trainable vgg16 model is the same as the vgg model until
 <img src='https://i.imgur.com/otQdZHH.png'>
 
 ### Evaluation Metrics
-Accuracy: 90.54%
-Precision: 87.19%
-Recall: 99.49%
-F1-score: 92.93%
+Accuracy: 90.54%<br>
+Precision: 87.19%<br>
+Recall: 99.49%<br>
+F1-score: 92.93%<br>
 Specificity: 75.64%
 
 ## Conclusion
