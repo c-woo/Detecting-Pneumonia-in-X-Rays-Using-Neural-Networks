@@ -74,4 +74,4 @@ F1-score: 92.93%<br>
 Specificity: 75.64%
 
 ## Conclusion
-The CNN model with added layers and regularization was the best performing model with an accuracy score of 93%. 
+The CNN model with added layers and regularization was the best performing model with an accuracy score of 93%. The model has a very high accuracy score along with other evaluation metrics and I am confident in its ability to detect pneumonia from x-ray images.
